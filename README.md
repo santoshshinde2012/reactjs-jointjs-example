@@ -57,6 +57,8 @@ $ npm start
 
 Your application should run on port 3000 with the *development* environment configuration, so in your browser just go to [http://localhost:3000](http://localhost:3000)
 
+![alt text](https://raw.githubusercontent.com/santoshshinde2012/reactjs-jointjs-example/master/public/react-joint-demo.jpg)
+
 ### About Me
 
  * [My website](http://santoshshinde.com/) (santoshshinde.com)

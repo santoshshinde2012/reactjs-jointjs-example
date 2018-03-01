@@ -31,7 +31,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Quick Install
 
-Once you've downloaded the demo and installed all the prerequisites, you're just a few steps away from starting to develop your MEAN application.
+Once you've downloaded the demo and installed all the prerequisites, you're just a few steps away from starting to develop your demo application.
 
 The demo comes pre-bundled with a `package.json` file that contain the list of modules you need to start your application.
 

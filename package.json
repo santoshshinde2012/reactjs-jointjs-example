@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://santoshshinde2012.github.io/reactjs-jointjs-example",
+  "homepage": "http://santoshshinde2012.github.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/santoshshinde2012/reactjs-jointjs-example.git"
